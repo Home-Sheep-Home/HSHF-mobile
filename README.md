@@ -1,2 +1,2 @@
 # HSHF-mobile
-a mobile port for android/ios
+a mobile port for android
